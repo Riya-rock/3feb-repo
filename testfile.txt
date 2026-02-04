@@ -1,1 +1,2 @@
 namsate
+direct on git bash
